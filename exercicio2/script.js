@@ -1,6 +1,5 @@
 let primeiroNumero = Number(prompt("Digite o primeiro número: "))
 let segundoNumero = Number(prompt("Digite o segundo número: "))
-
 const divisao1 = primeiroNumero%segundoNumero===0
 const divisao2 = segundoNumero%primeiroNumero===0
 
