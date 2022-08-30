@@ -9,4 +9,3 @@ console.log(operacao3)
 
 const operacao4 = !(20 > 50 && !50 > 60)
 console.log(operacao4)
-
